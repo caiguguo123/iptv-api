@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
   group: playlist-release-${{ github.repository }}
@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 300
     permissions:
-      contents: read
+      contents: write
       pages: write
       id-token: write
     outputs:
