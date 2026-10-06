@@ -1,5 +1,6 @@
-http://[2a10:9902:30:3095::1]/tvbox/tvbox.json
-http://itv666.cc/aowu/config.webp
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV4.m3u
+https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv4.m3u
 
 
 
